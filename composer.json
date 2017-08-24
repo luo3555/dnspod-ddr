@@ -1,0 +1,15 @@
+{
+    "name": "vendor/dnspod",
+    "description": "DNSPod dynamic resolution of domain names",
+    "type": "project",
+    "require": {
+        "rmccue/requests": "^1.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel luo",
+            "email": "luo3555@qq.com"
+        }
+    ]
+}
